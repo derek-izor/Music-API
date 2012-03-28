@@ -1,0 +1,14 @@
+c:\users\pizor\documents\visual studio 2010\Projects\Rest\Rest\bin\Debug\Rest.exe
+c:\users\pizor\documents\visual studio 2010\Projects\Rest\Rest\bin\Debug\Rest.pdb
+c:\users\pizor\documents\visual studio 2010\Projects\Rest\Rest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pizor\documents\visual studio 2010\Projects\Rest\Rest\obj\x86\Debug\Rest.exe
+c:\users\pizor\documents\visual studio 2010\Projects\Rest\Rest\obj\x86\Debug\Rest.pdb
+C:\Users\Pizor\documents\visual studio 2010\Projects\Rest\Rest\bin\Debug\MyLIB.dll
+C:\Users\Pizor\documents\visual studio 2010\Projects\Rest\Rest\bin\Debug\MyLIB.pdb
+C:\Users\derek.izor\Desktop\Rest\Rest\obj\x86\Debug\Rest.exe
+C:\Users\derek.izor\Desktop\Rest\Rest\obj\x86\Debug\Rest.pdb
+C:\Users\derek.izor\Desktop\Rest\Rest\bin\Debug\Rest.exe
+C:\Users\derek.izor\Desktop\Rest\Rest\bin\Debug\Rest.pdb
+C:\Users\derek.izor\Desktop\Rest\Rest\bin\Debug\MyLIB.dll
+C:\Users\derek.izor\Desktop\Rest\Rest\bin\Debug\MyLIB.pdb
+C:\Users\derek.izor\Desktop\Rest\Rest\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Pizor\documents\visual studio 2010\Projects\Rest\MyLIB\bin\Debug\MyLIB.dll
+C:\Users\Pizor\documents\visual studio 2010\Projects\Rest\MyLIB\bin\Debug\MyLIB.pdb
+C:\Users\Pizor\documents\visual studio 2010\Projects\Rest\MyLIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pizor\documents\visual studio 2010\Projects\Rest\MyLIB\obj\Debug\MyLIB.dll
+C:\Users\Pizor\documents\visual studio 2010\Projects\Rest\MyLIB\obj\Debug\MyLIB.pdb
+C:\Users\derek.izor\Desktop\Rest\MyLIB\bin\Debug\MyLIB.dll
+C:\Users\derek.izor\Desktop\Rest\MyLIB\bin\Debug\MyLIB.pdb
+C:\Users\derek.izor\Desktop\Rest\MyLIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\derek.izor\Desktop\Rest\MyLIB\obj\Debug\MyLIB.dll
+C:\Users\derek.izor\Desktop\Rest\MyLIB\obj\Debug\MyLIB.pdb
